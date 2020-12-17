@@ -4,3 +4,5 @@ I have been working on this document and I would like us to work together for mi
 Hi, I'm Rachael.  I'll be collaborating on this project with you. 
 
 So lets make sure to pull before pushing all the time. Sometimes it wont work but that's ok.
+
+Hi Everyone, it's Cliff's edit!  W00t W00t!
