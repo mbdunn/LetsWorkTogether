@@ -1,4 +1,6 @@
 Hi everyone,
-I have been working on this document and I would like us to work together for minimum productivity.
+I have been working on this document and I would like us to work together for minimum best possible productivity.
 
 Hi, I'm Rachael.  I'll be collaborating on this project with you. 
+
+So lets make sure to pull before pushing all the time. Sometimes it wont work but that's ok.
